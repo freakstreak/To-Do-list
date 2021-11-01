@@ -3,7 +3,7 @@ Todo list with database deployed on heroku.
 
 Below are the features of my todo list:-
 
-To create your own custom list, you can go to end of url amnd type your lis name and it will be created
+To create your own custom list, you can go to end of url and type your list name and it will be created
 
 I have deployed the backend on mongoDB Atlas.
 
